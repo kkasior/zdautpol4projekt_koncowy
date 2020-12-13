@@ -1,4 +1,4 @@
-Feature: Opening post page
+Feature: Basic Dev To tests
   Scenario: Open the first post from week page
     Given DevTo main page is open
     When User click week button
