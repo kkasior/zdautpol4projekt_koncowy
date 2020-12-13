@@ -9,3 +9,6 @@ Feature: Opening post page
     Given DevTo main page is open
     When User click podcasts button
     And User select the first podcast
+    Then User should be able to see podcast content
+    And User can play podcast
+    And User can pause podcast
